@@ -27,7 +27,7 @@
 | 25  | Sandeep Yadav       | sandeepdyadav0905@gmail.com       | [Sandeep Yadav](https://www.linkedin.com/in/sandeep-yadav95)  | [Certificate Link](https://badgr.com/public/assertions/a4SluiVjTMuHSQbBdOxY4w?identity__email=sandeepdyadav0905@gmail.com)    | Great pathway to kickstart your API Journey!   
 
 | 26  | Sunil Kumar Pradhan       | sunilkumarweb47@gmail.com            | [Sunil Kumar Pradhan]([give your LinkedIn profile link here](https://www.linkedin.com/in/sunil-kumar-pradhan-921152136/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/LuKevsWDS1-Na_QI36nfSQ?identity__email=sunilkumarweb47%40gmail.com))                                                    | It helped me when i started with API development for all my python backend codes                |
-| 27  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
+| 27  | Pavitraa G      | pavitraagopi@gmail.com            | [Pavitraa](https://www.linkedin.com/in/pavitraa-g/)             | [Certificate Link](https://api.badgr.io/public/assertions/kC_ZVfK0SpK8HVfIffp9lQ?identity__email=pavitraagopi%40gmail.com)                                                    | It was very informative and learned a practical knowledge on API                 |
 | 28  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 29  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 30  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
@@ -72,10 +72,6 @@
 | 35 | Nikhil Verma | nikhil2003verma@gmail.com | [Nikhil Verma](https://www.linkedin.com/in/nikhil2003verma/) | [Certificate Link](https://api.badgr.io/public/assertions/hENjkK2WSMm19EC0yKPDBA?identity__email=nikhil2003verma%40gmail.com) | Should have direct test option for user who know things. |
 
 | 36 | Aman Jain | amanjain91667@gmail.com | [Aman Jain](https://www.linkedin.com/in/aman-jain-130167258) | [Certificate Link](https://api.badgr.io/public/assertions/7PHes5voS02CEzTyIDdj2Q?identity__email=amanjain91667%40gmail.com) | Good Course |
-
-| 37  | Vijay Shanker Sharma            | vijayshankersharma658@gmail.com       | [Vijay Shanker Sharma](www.linkedin.com/in/vijay-shanker-sharma) | [Certificate Link](https://api.badgr.io/public/assertions/C81WqIpVQdSvCGvcIYLMhw?identity__email=vijayshankersharma658%40gmail.com) | Great course on using Postman to handle API requests. |
-
-
 
 
 
